@@ -3,40 +3,6 @@
 Source: [Build Your Own X](https://build-your-own-x.vercel.app/)
 
 ## Table Of Content
-- [3D Renderer](./3d-renderer/)
-- [Augmented Reality](./augmented-reality/)
-- [BitTorrent Client](./bittorrent-client/)
-- [Blockchain / Cryptocurrency](./blockchain-cryptocurrency/)
-- [Bot](./bot/)
-- [Command-Line Tool](./command-line-tool/)
-- [Database](./database/)
-- [Docker](./docker/)
-- [Emulator / Virtual Machine](./emulator-virtual-machine/)
-- [Front-end Framework / Library](./front-end-framework-library/)
-- [Game](./game/)
-- [Git](./git/)
-- [Network Stack](./network-stack/)
-- [Neural Network](./neural-network/)
-- [Operating System](./operating-system/)
-- [Physics Engine](./physics-engine/)
-- [Programming Language](./programming-language/)
-- [Regex Engine](./regex-engine/)
-- [Search Engine](./search-engine/)
-- [Shell](./shell/)
-- [Template Engine](./template-engine/)
-- [Text Editor](./text-editor/)
-- [Visual Recognition System](./visual-recognition-system/)
-- [Voxel Engine](./voxel-engine/)
-- [Web Search Engine](./web-search-engine/)
-- [Web Server](./web-server/)
-- [IoT](./iot/)
-- [Keyboard](./keyboard/)
-- [AI](./ai/)
-- [Uncategorized](./uncategorized/)
-
-<details>
-<summary>Progress</summary>
-
 - [ ] [3D Renderer](./3d-renderer/)
 - [ ] [Augmented Reality](./augmented-reality/)
 - [ ] [BitTorrent Client](./bittorrent-client/)
@@ -67,5 +33,3 @@ Source: [Build Your Own X](https://build-your-own-x.vercel.app/)
 - [ ] [Keyboard](./keyboard/)
 - [ ] [AI](./ai/)
 - [ ] [Uncategorized](./uncategorized/)
-
-</details>
